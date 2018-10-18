@@ -1,2 +1,2 @@
 # SDLSnake
-C++ SDL snake in progress.
+C++ SDL snake / currently solved only base UI and movement.
